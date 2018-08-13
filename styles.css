@@ -1,0 +1,30 @@
+  .mydiv{
+        height: 100%;
+           width: 280px;
+           position: fixed;
+           z-index: 1;
+           top: 0;
+           left: 1;
+           right:0;
+           background-color: 'yellow';
+           overflow-x: hidden;
+           margin-top: 20px;
+           font-size: 30px;
+           font-family: sans-serif;
+           margin-right: 0px;
+
+      }
+      h2{
+color : blue;
+font-family:inherit;
+
+      }
+
+      h1{
+
+        color: red;
+
+      }
+      items{
+        margin-bottom: 10px;
+      }
